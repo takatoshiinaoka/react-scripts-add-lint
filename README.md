@@ -1,2 +1,3 @@
 # my-app
-React×TypeScriptのテンプレート
+
+React×TypeScript のテンプレート
