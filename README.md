@@ -1,4 +1,4 @@
-# my-app
+# react-scripts-add-lint
 
 React×TypeScript のテンプレート
 
